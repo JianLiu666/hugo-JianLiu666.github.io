@@ -8,66 +8,57 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Senior Engineer
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: Paradise-Soft
+  url: "https://www.paradise-soft.com/"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/resume.pdf"
+resume: "https://www.cakeresume.com/jianliou-6"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary1: '嗨，我是劉建宏，你也可以叫我小六或是 Jian Liu，西元 1992 年生，2016 年畢業於台中國立勤益科技大學資訊工程所。'
+summary2: '自幼就對各種事物充滿好奇，樂於學習且熱衷於面對挑戰。'
+summary3: '積極廣泛的探索個人興趣與職涯性向，希望自己能在每個階段中達到不同的里程碑。'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "jianliou.6@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
-
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+  url: "https://www.github.com/JianLiu666"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/jianliou/"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
-
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
 - name: Leadership
-  percentage: 85
+  percentage: 100
   color: blue
 - name: Team Work
-  percentage: 90
+  percentage: 100
   color: yellow
 - name: Communication
-  percentage: 85
+  percentage: 100
   color: pink
 - name: Hard Working
-  percentage: 85
+  percentage: 100
   color: green
 - name: Fast Learner
-  percentage: 85
+  percentage: 100
   color: sky
 - name: Problem Solving
-  percentage: 85
+  percentage: 100
   color: orange
 # you can also provide color code instead of pre-defined color name
 # - name: Example 1
