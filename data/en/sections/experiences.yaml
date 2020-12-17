@@ -11,54 +11,51 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: 天堂遊戲有限公司 Paradise-Soft
+    url: "https://www.paradise-soft.com/"
+    location: 台北市信義區
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: "Skills: Golang、Node.js、Arangodb、Redis、k8s、GCP"
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Senior Engineer
+    start: Mar 2020
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - 暫不公開
 
 - company:
-    name: PreExample Co.
-    url: "https://www.preexample.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: 光晨科技有限公司
+    # url: "https://www.preexample.com"
+    location: 台中市西屯區
+    overview: "Skills: Golang、Javascript、CocosCreator、Python、MySQL、Redis、ELK、AWS"
   positions:
   - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+    start: Jul 2018
+    end: Jan 2020
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - HTML5 網頁棋牌遊戲，包含 PVP、PVE 與客制匹配需求
+    - 支持高併發遊戲伺服器
+    - 熱門與客製化需求遊戲產品
+    - 分析數據歷程，自動化監控追蹤異常數據與來源
+    - 提供客製需求機器人服務
+
+
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.intern.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: wooSeven 專案工作室
+    # url: "https://www.intern.com"
+    location: 台中市北區
+    overview: "Skills: PHP、Golang、Python、MySQL、GCP"
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Co-Founder
+    start: Jan 2017
+    end: Apr 2018
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - 協助電商業者開發客製化需求 LineBot
+    - 協助保險業者開發自動化數據彙整與即時分析工具
+    - 協助餐飲業者數據分析並改善營業狀況
+    - 私人遊戲伺服器系統維護顧問
+
+
