@@ -2,13 +2,13 @@
 title: "wooSeven 專案工作室"
 date: 2018-04-30T00:00:00+08:00
 # hero: /posts/introduction/hero.svg
-description: Introduction to Sample Post
+# description: Introduction to Sample Post
 menu:
   sidebar:
     name: "wooSeven 專案工作室"
-    identifier: wooseven-studio
-    parent: experiences
-    weight: 2018040101
+    identifier: wooseven
+    parent: "experiences-2018"
+    weight: 2018043001
 ---
 
 ---
