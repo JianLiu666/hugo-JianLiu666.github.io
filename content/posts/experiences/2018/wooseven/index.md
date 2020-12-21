@@ -1,8 +1,9 @@
 ---
 title: "wooSeven 專案工作室"
 date: 2018-04-30T00:00:00+08:00
-# hero: /posts/introduction/hero.svg
-# description: Introduction to Sample Post
+hero: /posts/experiences/2018/wooseven/image/banner.jpeg
+description: "在 2016-2017 年間與幾位志同道合的夥伴成立的接案工作室重點回顧。"
+
 menu:
   sidebar:
     name: "wooSeven 專案工作室"

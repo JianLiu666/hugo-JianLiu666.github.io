@@ -1,7 +1,7 @@
 ---
 title: "棋牌遊戲開發| 遊戲伺服器篇"
 date: 2020-01-26T00:00:00+08:00
-# hero: /posts/introduction/hero.svg
+hero: /posts/experiences/2019/game-platform-backend/image/banner.jpeg
 description: "本篇內容為棋牌類型為主的遊戲伺服器架構心得筆記，涉及高併發、玩家佇列與自動佈署等。"
 menu:
   sidebar:
