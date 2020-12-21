@@ -22,4 +22,4 @@ menu:
 
 #### 服務面向紀錄
 
-{{< img src="https://imgur.com/T5dLpTO.png" align="center" >}}
+{{< img src="/posts/experiences/2018/wooseven/image/mindmap_wooseven.svg" align="center" >}}
