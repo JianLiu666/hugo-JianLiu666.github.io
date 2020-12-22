@@ -1,0 +1,126 @@
+@startmindmap
+
+<style>
+mindmapDiagram {
+    node {
+        Padding 12
+        Margin 10
+        LineColor #4D4D4D
+        BackgroundColor #4D4D4D
+        FontColor white
+        Shadowing 0
+        HorizontalAlignment center
+    }
+    arrow {
+        LineStyle 0
+        LineColor #4D4D4D
+    }
+}
+</style>
+
++ 遊戲伺服器框架
+
+<style>
+  node {
+    BackGroundColor #E85642
+    LineColor #E85642
+  }
+</style>
+++ 應用語言
++++ Gplang
++++ Python
++++ Javascript
+
+<style>
+  node {
+    BackGroundColor #F08705
+    LineColor #F08705
+  }
+</style>
+++ 資料庫
++++ MySQL
++++ Redis
+
+<style>
+  node {
+    BackGroundColor #FFC300
+    LineColor #FFC300
+  }
+</style>
+++ 通訊方式
++++ TCP
++++ WebSocket / MQTT
++++ RPC
+
+<style>
+  node {
+    BackGroundColor #8EBA69
+    LineColor #8EBA69
+  }
+</style>
+++ 客戶端
++++ Javascript
++++ WebSocket
+
+<style>
+  node {
+    BackGroundColor #55AA59
+    LineColor #55AA59
+  }
+</style>
+++ 第三方套件
++++ NATS
++++ Consul
++++ gRPC
++++ Elasticsearch
++++ Beego Logger
+
+<style>
+  node {
+    BackGroundColor #384289
+    LineColor #384289
+  }
+</style>
+-- 核心單元
+--- 遊戲邏輯模組
+--- 機器人模組
+--- 牌桌模組
+--- 玩家模組
+
+<style>
+  node {
+    BackGroundColor #155384
+    LineColor #155384
+  }
+</style>
+-- CI/CD
+--- Jenkins
+--- Ansible
+
+<style>
+  node {
+    BackGroundColor #1699D3
+    LineColor #1699D3
+  }
+</style>
+-- 運行平台
+--- AWS EC2
+--- Linux
+--- Windows
+--- Mac OS
+
+<style>
+  node {
+    BackGroundColor #12AAB5
+    LineColor #12AAB5
+  }
+</style>
+-- 周邊服務
+--- Linux Supervisor 進程管理
+--- Load Balance 附載平衡
+--- Slack 警示推播
+--- AWS Console 日誌管理
+--- Kibana 數據分析
+--- gzip 封包壓縮
+
+@endmindmap

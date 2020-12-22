@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="989px" preserveAspectRatio="none" style="width:857px;height:989px;" version="1.1" viewBox="0 0 857 989" width="857px" zoomAndPan="magnify"><defs/><g><rect fill="#4D4D4D" height="40.4883" rx="12.5" ry="12.5" style="stroke:#4D4D4D;stroke-width:1.5;" width="122" x="389" y="473.6621"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="98" x="401" y="499.1973">遊戲伺服器框架</text><rect fill="#E85642" height="40.4883" rx="12.5" ry="12.5" style="stroke:#E85642;stroke-width:1.5;" width="80" x="561" y="110.7324"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="56" x="573" y="136.2676">應用語言</text><rect fill="#E85642" height="40.4883" rx="12.5" ry="12.5" style="stroke:#E85642;stroke-width:1.5;" width="73" x="691" y="50.2441"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="49" x="703" y="75.7793">Gplang</text><path d="M641,130.9766 L651,130.9766 C666,130.9766 666,70.4883 681,70.4883 L691,70.4883 " fill="none" style="stroke:#4D4D4D;stroke-width:1.0;"/><rect fill="#E85642" height="40.4883" rx="12.5" ry="12.5" style="stroke:#E85642;stroke-width:1.5;" width="71" x="691" y="110.7324"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="47" x="703" y="136.2676">Python</text><path d="M641,130.9766 L651,130.9766 C666,130.9766 666,130.9766 681,130.9766 L691,130.9766 " fill="none" style="stroke:#4D4D4D;stroke-width:1.0;"/><rect fill="#E85642" height="40.4883" rx="12.5" ry="12.5" style="stroke:#E85642;stroke-width:1.5;" width="89" x="691" y="171.2207"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="65" x="703" y="196.7559">Javascript</text><path d="M641,130.9766 L651,130.9766 C666,130.9766 666,191.4648 681,191.4648 L691,191.4648 " fill="none" style="stroke:#4D4D4D;stroke-width:1.0;"/><path d="M511,493.9063 L521,493.9063 C536,493.9063 536,130.9766 551,130.9766 L561,130.9766 " fill="none" style="stroke:#4D4D4D;stroke-width:1.0;"/><rect fill="#F08705" height="40.4883" rx="12.5" ry="12.5" style="stroke:#F08705;stroke-width:1.5;" width="66" x="561" y="261.9531"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="42" x="573" y="287.4883">資料庫</text><rect fill="#F08705" height="40.4883" rx="12.5" ry="12.5" style="stroke:#F08705;stroke-width:1.5;" width="69" x="677" y="231.709"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="45" x="689" y="257.2441">MySQL</text><path d="M627,282.1973 L637,282.1973 C652,282.1973 652,251.9531 667,251.9531 L677,251.9531 " fill="none" style="stroke:#4D4D4D;stroke-width:1.0;"/><rect fill="#F08705" height="40.4883" rx="12.5" ry="12.5" style="stroke:#F08705;stroke-width:1.5;" width="61" x="677" y="292.1973"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="37" x="689" y="317.7324">Redis</text><path d="M627,282.1973 L637,282.1973 C652,282.1973 652,312.4414 667,312.4414 L677,312.4414 " fill="none" style="stroke:#4D4D4D;stroke-width:1.0;"/><path d="M511,493.9063 L521,493.9063 C536,493.9063 536,282.1973 551,282.1973 L561,282.1973 " fill="none" style="stroke:#4D4D4D;stroke-width:1.0;"/><rect fill="#FFC300" height="40.4883" rx="12.5" ry="12.5" style="stroke:#FFC300;stroke-width:1.5;" width="80" x="561" y="413.1738"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="56" x="573" y="438.709">通訊方式</text><rect fill="#FFC300" height="40.4883" rx="12.5" ry="12.5" style="stroke:#FFC300;stroke-width:1.5;" width="51" x="691" y="352.6855"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="27" x="703" y="378.2207">TCP</text><path d="M641,433.418 L651,433.418 C666,433.418 666,372.9297 681,372.9297 L691,372.9297 " fill="none" style="stroke:#4D4D4D;stroke-width:1.0;"/><rect fill="#FFC300" height="40.4883" rx="12.5" ry="12.5" style="stroke:#FFC300;stroke-width:1.5;" width="154" x="691" y="413.1738"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="130" x="703" y="438.709">WebSocket / MQTT</text><path d="M641,433.418 L651,433.418 C666,433.418 666,433.418 681,433.418 L691,433.418 " fill="none" style="stroke:#4D4D4D;stroke-width:1.0;"/><rect fill="#FFC300" height="40.4883" rx="12.5" ry="12.5" style="stroke:#FFC300;stroke-width:1.5;" width="51" x="691" y="473.6621"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="27" x="703" y="499.1973">RPC</text><path d="M641,433.418 L651,433.418 C666,433.418 666,493.9063 681,493.9063 L691,493.9063 " fill="none" style="stroke:#4D4D4D;stroke-width:1.0;"/><path d="M511,493.9063 L521,493.9063 C536,493.9063 536,433.418 551,433.418 L561,433.418 " fill="none" style="stroke:#4D4D4D;stroke-width:1.0;"/><rect fill="#8EBA69" height="40.4883" rx="12.5" ry="12.5" style="stroke:#8EBA69;stroke-width:1.5;" width="66" x="561" y="564.3945"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="42" x="573" y="589.9297">客戶端</text><rect fill="#8EBA69" height="40.4883" rx="12.5" ry="12.5" style="stroke:#8EBA69;stroke-width:1.5;" width="89" x="677" y="534.1504"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="65" x="689" y="559.6855">Javascript</text><path d="M627,584.6387 L637,584.6387 C652,584.6387 652,554.3945 667,554.3945 L677,554.3945 " fill="none" style="stroke:#4D4D4D;stroke-width:1.0;"/><rect fill="#8EBA69" height="40.4883" rx="12.5" ry="12.5" style="stroke:#8EBA69;stroke-width:1.5;" width="98" x="677" y="594.6387"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="74" x="689" y="620.1738">WebSocket</text><path d="M627,584.6387 L637,584.6387 C652,584.6387 652,614.8828 667,614.8828 L677,614.8828 " fill="none" style="stroke:#4D4D4D;stroke-width:1.0;"/><path d="M511,493.9063 L521,493.9063 C536,493.9063 536,584.6387 551,584.6387 L561,584.6387 " fill="none" style="stroke:#4D4D4D;stroke-width:1.0;"/><rect fill="#55AA59" height="40.4883" rx="12.5" ry="12.5" style="stroke:#55AA59;stroke-width:1.5;" width="94" x="561" y="776.1035"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="70" x="573" y="801.6387">第三方套件</text><rect fill="#55AA59" height="40.4883" rx="12.5" ry="12.5" style="stroke:#55AA59;stroke-width:1.5;" width="61" x="705" y="655.127"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="37" x="717" y="680.6621">NATS</text><path d="M655,796.3477 L665,796.3477 C680,796.3477 680,675.3711 695,675.3711 L705,675.3711 " fill="none" style="stroke:#4D4D4D;stroke-width:1.0;"/><rect fill="#55AA59" height="40.4883" rx="12.5" ry="12.5" style="stroke:#55AA59;stroke-width:1.5;" width="72" x="705" y="715.6152"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="48" x="717" y="741.1504">Consul</text><path d="M655,796.3477 L665,796.3477 C680,796.3477 680,735.8594 695,735.8594 L705,735.8594 " fill="none" style="stroke:#4D4D4D;stroke-width:1.0;"/><rect fill="#55AA59" height="40.4883" rx="12.5" ry="12.5" style="stroke:#55AA59;stroke-width:1.5;" width="60" x="705" y="776.1035"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="36" x="717" y="801.6387">gRPC</text><path d="M655,796.3477 L665,796.3477 C680,796.3477 680,796.3477 695,796.3477 L705,796.3477 " fill="none" style="stroke:#4D4D4D;stroke-width:1.0;"/><rect fill="#55AA59" height="40.4883" rx="12.5" ry="12.5" style="stroke:#55AA59;stroke-width:1.5;" width="112" x="705" y="836.5918"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="88" x="717" y="862.127">Elasticsearch</text><path d="M655,796.3477 L665,796.3477 C680,796.3477 680,856.8359 695,856.8359 L705,856.8359 " fill="none" style="stroke:#4D4D4D;stroke-width:1.0;"/><rect fill="#55AA59" height="40.4883" rx="12.5" ry="12.5" style="stroke:#55AA59;stroke-width:1.5;" width="118" x="705" y="897.0801"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="94" x="717" y="922.6152">Beego Logger</text><path d="M655,796.3477 L665,796.3477 C680,796.3477 680,917.3242 695,917.3242 L705,917.3242 " fill="none" style="stroke:#4D4D4D;stroke-width:1.0;"/><path d="M511,493.9063 L521,493.9063 C536,493.9063 536,796.3477 551,796.3477 L561,796.3477 " fill="none" style="stroke:#4D4D4D;stroke-width:1.0;"/><rect fill="#384289" height="40.4883" rx="12.5" ry="12.5" style="stroke:#384289;stroke-width:1.5;" width="80" x="259" y="110.7324"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="56" x="271" y="136.2676">核心單元</text><rect fill="#384289" height="40.4883" rx="12.5" ry="12.5" style="stroke:#384289;stroke-width:1.5;" width="108" x="101" y="20"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="84" x="113" y="45.5352">遊戲邏輯模組</text><path d="M259,130.9766 L249,130.9766 C234,130.9766 234,40.2441 219,40.2441 L209,40.2441 " fill="none" style="stroke:#4D4D4D;stroke-width:1.0;"/><rect fill="#384289" height="40.4883" rx="12.5" ry="12.5" style="stroke:#384289;stroke-width:1.5;" width="94" x="115" y="80.4883"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="70" x="127" y="106.0234">機器人模組</text><path d="M259,130.9766 L249,130.9766 C234,130.9766 234,100.7324 219,100.7324 L209,100.7324 " fill="none" style="stroke:#4D4D4D;stroke-width:1.0;"/><rect fill="#384289" height="40.4883" rx="12.5" ry="12.5" style="stroke:#384289;stroke-width:1.5;" width="80" x="129" y="140.9766"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="56" x="141" y="166.5117">牌桌模組</text><path d="M259,130.9766 L249,130.9766 C234,130.9766 234,161.2207 219,161.2207 L209,161.2207 " fill="none" style="stroke:#4D4D4D;stroke-width:1.0;"/><rect fill="#384289" height="40.4883" rx="12.5" ry="12.5" style="stroke:#384289;stroke-width:1.5;" width="80" x="129" y="201.4648"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="56" x="141" y="227">玩家模組</text><path d="M259,130.9766 L249,130.9766 C234,130.9766 234,221.709 219,221.709 L209,221.709 " fill="none" style="stroke:#4D4D4D;stroke-width:1.0;"/><path d="M389,493.9063 L379,493.9063 C364,493.9063 364,130.9766 349,130.9766 L339,130.9766 " fill="none" style="stroke:#4D4D4D;stroke-width:1.0;"/><rect fill="#155384" height="40.4883" rx="12.5" ry="12.5" style="stroke:#155384;stroke-width:1.5;" width="65" x="274" y="292.1973"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="41" x="286" y="317.7324">CI/CD</text><rect fill="#155384" height="40.4883" rx="12.5" ry="12.5" style="stroke:#155384;stroke-width:1.5;" width="73" x="151" y="261.9531"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="49" x="163" y="287.4883">Jenkins</text><path d="M274,312.4414 L264,312.4414 C249,312.4414 249,282.1973 234,282.1973 L224,282.1973 " fill="none" style="stroke:#4D4D4D;stroke-width:1.0;"/><rect fill="#155384" height="40.4883" rx="12.5" ry="12.5" style="stroke:#155384;stroke-width:1.5;" width="75" x="149" y="322.4414"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="51" x="161" y="347.9766">Ansible</text><path d="M274,312.4414 L264,312.4414 C249,312.4414 249,342.6855 234,342.6855 L224,342.6855 " fill="none" style="stroke:#4D4D4D;stroke-width:1.0;"/><path d="M389,493.9063 L379,493.9063 C364,493.9063 364,312.4414 349,312.4414 L339,312.4414 " fill="none" style="stroke:#4D4D4D;stroke-width:1.0;"/><rect fill="#1699D3" height="40.4883" rx="12.5" ry="12.5" style="stroke:#1699D3;stroke-width:1.5;" width="80" x="259" y="473.6621"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="56" x="271" y="499.1973">運行平台</text><rect fill="#1699D3" height="40.4883" rx="12.5" ry="12.5" style="stroke:#1699D3;stroke-width:1.5;" width="85" x="124" y="382.9297"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="61" x="136" y="408.4648">AWS EC2</text><path d="M259,493.9063 L249,493.9063 C234,493.9063 234,403.1738 219,403.1738 L209,403.1738 " fill="none" style="stroke:#4D4D4D;stroke-width:1.0;"/><rect fill="#1699D3" height="40.4883" rx="12.5" ry="12.5" style="stroke:#1699D3;stroke-width:1.5;" width="62" x="147" y="443.418"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="38" x="159" y="468.9531">Linux</text><path d="M259,493.9063 L249,493.9063 C234,493.9063 234,463.6621 219,463.6621 L209,463.6621 " fill="none" style="stroke:#4D4D4D;stroke-width:1.0;"/><rect fill="#1699D3" height="40.4883" rx="12.5" ry="12.5" style="stroke:#1699D3;stroke-width:1.5;" width="85" x="124" y="503.9063"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="61" x="136" y="529.4414">Windows</text><path d="M259,493.9063 L249,493.9063 C234,493.9063 234,524.1504 219,524.1504 L209,524.1504 " fill="none" style="stroke:#4D4D4D;stroke-width:1.0;"/><rect fill="#1699D3" height="40.4883" rx="12.5" ry="12.5" style="stroke:#1699D3;stroke-width:1.5;" width="74" x="135" y="564.3945"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="50" x="147" y="589.9297">Mac OS</text><path d="M259,493.9063 L249,493.9063 C234,493.9063 234,584.6387 219,584.6387 L209,584.6387 " fill="none" style="stroke:#4D4D4D;stroke-width:1.0;"/><path d="M389,493.9063 L379,493.9063 C364,493.9063 364,493.9063 349,493.9063 L339,493.9063 " fill="none" style="stroke:#4D4D4D;stroke-width:1.0;"/><rect fill="#12AAB5" height="40.4883" rx="12.5" ry="12.5" style="stroke:#12AAB5;stroke-width:1.5;" width="80" x="259" y="776.1035"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="56" x="271" y="801.6387">周邊服務</text><rect fill="#12AAB5" height="40.4883" rx="12.5" ry="12.5" style="stroke:#12AAB5;stroke-width:1.5;" width="199" x="10" y="624.8828"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="175" x="22" y="650.418">Linux Supervisor 進程管理</text><path d="M259,796.3477 L249,796.3477 C234,796.3477 234,645.127 219,645.127 L209,645.127 " fill="none" style="stroke:#4D4D4D;stroke-width:1.0;"/><rect fill="#12AAB5" height="40.4883" rx="12.5" ry="12.5" style="stroke:#12AAB5;stroke-width:1.5;" width="173" x="36" y="685.3711"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="149" x="48" y="710.9063">Load Balance 附載平衡</text><path d="M259,796.3477 L249,796.3477 C234,796.3477 234,705.6152 219,705.6152 L209,705.6152 " fill="none" style="stroke:#4D4D4D;stroke-width:1.0;"/><rect fill="#12AAB5" height="40.4883" rx="12.5" ry="12.5" style="stroke:#12AAB5;stroke-width:1.5;" width="119" x="90" y="745.8594"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="95" x="102" y="771.3945">Slack 警示推播</text><path d="M259,796.3477 L249,796.3477 C234,796.3477 234,766.1035 219,766.1035 L209,766.1035 " fill="none" style="stroke:#4D4D4D;stroke-width:1.0;"/><rect fill="#12AAB5" height="40.4883" rx="12.5" ry="12.5" style="stroke:#12AAB5;stroke-width:1.5;" width="174" x="35" y="806.3477"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="150" x="47" y="831.8828">AWS Console 日誌管理</text><path d="M259,796.3477 L249,796.3477 C234,796.3477 234,826.5918 219,826.5918 L209,826.5918 " fill="none" style="stroke:#4D4D4D;stroke-width:1.0;"/><rect fill="#12AAB5" height="40.4883" rx="12.5" ry="12.5" style="stroke:#12AAB5;stroke-width:1.5;" width="131" x="78" y="866.8359"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="107" x="90" y="892.3711">Kibana 數據分析</text><path d="M259,796.3477 L249,796.3477 C234,796.3477 234,887.0801 219,887.0801 L209,887.0801 " fill="none" style="stroke:#4D4D4D;stroke-width:1.0;"/><rect fill="#12AAB5" height="40.4883" rx="12.5" ry="12.5" style="stroke:#12AAB5;stroke-width:1.5;" width="114" x="95" y="927.3242"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="90" x="107" y="952.8594">gzip 封包壓縮</text><path d="M259,796.3477 L249,796.3477 C234,796.3477 234,947.5684 219,947.5684 L209,947.5684 " fill="none" style="stroke:#4D4D4D;stroke-width:1.0;"/><path d="M389,493.9063 L379,493.9063 C364,493.9063 364,796.3477 349,796.3477 L339,796.3477 " fill="none" style="stroke:#4D4D4D;stroke-width:1.0;"/><!--MD5=[3ffa290bf870f31e53f0c2d2b07aefb8]
+@startmindmap
+
+<style>
+mindmapDiagram {
+    node {
+        Padding 12
+        Margin 10
+        LineColor #4D4D4D
+        BackgroundColor #4D4D4D
+        FontColor white
+        Shadowing 0
+        HorizontalAlignment center
+    }
+    arrow {
+        LineStyle 0
+        LineColor #4D4D4D
+    }
+}
+</style>
+
++ 遊戲伺服器框架
+
+<style>
+  node {
+    BackGroundColor #E85642
+    LineColor #E85642
+  }
+</style>
+++ 應用語言
++++ Gplang
++++ Python
++++ Javascript
+
+<style>
+  node {
+    BackGroundColor #F08705
+    LineColor #F08705
+  }
+</style>
+++ 資料庫
++++ MySQL
++++ Redis
+
+<style>
+  node {
+    BackGroundColor #FFC300
+    LineColor #FFC300
+  }
+</style>
+++ 通訊方式
++++ TCP
++++ WebSocket / MQTT
++++ RPC
+
+<style>
+  node {
+    BackGroundColor #8EBA69
+    LineColor #8EBA69
+  }
+</style>
+++ 客戶端
++++ Javascript
++++ WebSocket
+
+<style>
+  node {
+    BackGroundColor #55AA59
+    LineColor #55AA59
+  }
+</style>
+++ 第三方套件
++++ NATS
++++ Consul
++++ gRPC
++++ Elasticsearch
++++ Beego Logger
+
+<style>
+  node {
+    BackGroundColor #384289
+    LineColor #384289
+  }
+</style>
+- - 核心單元
+- - - 遊戲邏輯模組
+- - - 機器人模組
+- - - 牌桌模組
+- - - 玩家模組
+
+<style>
+  node {
+    BackGroundColor #155384
+    LineColor #155384
+  }
+</style>
+- - CI/CD
+- - - Jenkins
+- - - Ansible
+
+<style>
+  node {
+    BackGroundColor #1699D3
+    LineColor #1699D3
+  }
+</style>
+- - 運行平台
+- - - AWS EC2
+- - - Linux
+- - - Windows
+- - - Mac OS
+
+<style>
+  node {
+    BackGroundColor #12AAB5
+    LineColor #12AAB5
+  }
+</style>
+- - 周邊服務
+- - - Linux Supervisor 進程管理
+- - - Load Balance 附載平衡
+- - - Slack 警示推播
+- - - AWS Console 日誌管理
+- - - Kibana 數據分析
+- - - gzip 封包壓縮
+
+@endmindmap
+
+PlantUML version 1.2020.22(Sun Dec 06 17:36:27 CST 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: zh
+Country: TW
+--></g></svg>
