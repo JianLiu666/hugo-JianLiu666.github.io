@@ -23,6 +23,8 @@ menu:
 
 ### PVE 伺服器系統架構圖
 
+{{< img src="/posts/experiences/2019/game-platform-pacer/image/mindmap.svg" align="center" >}}
+
 PVE 伺服器的佈署環境與前篇的遊戲伺服器相同，因此在這邊就不再多加贅述。
 
 #### 常駐服務
