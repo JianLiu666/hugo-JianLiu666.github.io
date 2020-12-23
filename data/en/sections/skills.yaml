@@ -13,39 +13,39 @@ section:
 skills:
 - name: Golang
   icon: "/images/sections/skills/go.png"
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+  summary: "- 分散式遊戲伺服器  \n- 遊戲機器人應用  \n- 電子錢包服務"
+  url: ""
 
 - name: Python
   icon: ""
-  summary: ""
+  summary: "- 獨立遊戲製作 \n- 機器學習  \n- 影像處理"
   url: ""
 
 - name: Node.js
   icon: ""
-  summary: ""
+  summary: "- 分散式遊戲伺服器 \n- 個人網站架設"
   url: ""
 
 - name: Docker
   icon: "/images/sections/skills/docker.svg"
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  url: "https://www.docker.com/"
+  summary: ""
+  url: ""
 
 - name: Linux
   icon: "/images/sections/skills/linux.png"
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+  summary: ""
 
 - name: Git
   icon: "/images/sections/skills/git.png"
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  url: "https://git-scm.com/"
+  summary: "- 大型專案開發經驗  \n- GitFlow"
+  url: ""
 
 - name: Cloud Computing
   icon: "/images/sections/skills/cloud.png"
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  summary: ""
   
 - name: Kubernetes
   icon: "/images/sections/skills/kubernetes.png"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+  summary: ""
+  url: ""
 
