@@ -23,6 +23,8 @@ menu:
 
 ### 遊戲前端技術框架結構圖
 
+{{< img src="/posts/experiences/2019/game-platform-frontend/image/mindmap.svg" align="center" >}}
+
 #### 通訊方式選擇
 
   - HttpRequest：大部分與外部服務 (e.g. 會員系統) 溝通時採用的傳輸協定。
