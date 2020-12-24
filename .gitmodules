@@ -1,3 +1,6 @@
 [submodule "themes/toha"]
 	path = themes/toha
 	url = https://github.com/hugo-toha/toha.git
+[submodule "public"]
+	path = public
+	url = https://github.com/JianLiu666/JianLiu666.github.io.git
