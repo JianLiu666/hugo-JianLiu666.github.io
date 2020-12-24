@@ -16,19 +16,18 @@ skills:
   summary: "- 分散式遊戲伺服器  \n- 遊戲機器人設計  \n- 電子錢包服務"
   url: ""
 
-- name: Python
-  icon: ""
-  summary: "- 獨立遊戲製作 \n- 股市資料爬蟲分析  \n- 機器學習於遊戲, ADAS 經驗  \n- 影像處理於醫學, ADAS 經驗"
-  url: ""
-
-- name: Node.js
-  icon: ""
-  summary: "- 分散式遊戲伺服器 \n- 個人網站架設"
-  url: ""
-
 - name: Database
   icon: ""
   summary: "- MySQL  \n- MongoDB, ArangoDB  \n- Redis"
+  url: ""
+
+- name: Cloud Platform
+  icon: "/images/sections/skills/cloud.png"
+  summary: "- AWS: EC2, S3  \n- GCP: GCE, GKE"
+
+- name: Python
+  icon: ""
+  summary: "- 獨立遊戲製作 \n- 股市資料爬蟲分析  \n- 機器學習於遊戲, ADAS 經驗  \n- 影像處理於醫學, ADAS 經驗"
   url: ""
 
 - name: 3rd-Party Tools
@@ -36,17 +35,16 @@ skills:
   summary: "- NATS, Kafka, RabbitMQ, NSQ  \n- Consul, Prometheus  \n- ELK, Graylog  \n- Docker, Jenkins, Ansible"
   url: ""
 
+- name: Others
+  icon: ""
+  summary: "- 分散式架構規劃經驗  \n- Client & Server data flow 規劃經驗  \n- 熟悉 DesignPattern, SOLID 原則  \n- 熟悉 ACID, CAP 理論"
+
+- name: Node.js
+  icon: ""
+  summary: "- 分散式遊戲伺服器 \n- 個人網站架設"
+  url: ""
+
 - name: Git
   icon: "/images/sections/skills/git.png"
   summary: "- 大型團隊共同開發經驗  \n- 遵守 GitFlow 開發原則"
   url: ""
-
-- name: Cloud Platform
-  icon: "/images/sections/skills/cloud.png"
-  summary: "- AWS: EC2, S3  \n- GCP: GCE, GKE"
-  
-- name: Others
-  icon: ""
-  summary: "- Windows, Linux, macOS 開發經驗  \n- 熟悉 DesignPattern, SOLID 原則  \n- 熟悉 ACID, CAP 理論"
-
-
