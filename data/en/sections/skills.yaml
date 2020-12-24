@@ -17,7 +17,7 @@ skills:
   url: ""
 
 - name: Database
-  icon: ""
+  icon: "/images/sections/skills/database.png"
   summary: "- MySQL  \n- MongoDB, ArangoDB  \n- Redis"
   url: ""
 
@@ -26,21 +26,21 @@ skills:
   summary: "- AWS: EC2, S3  \n- GCP: GCE, GKE"
 
 - name: Python
-  icon: ""
+  icon: "/images/sections/skills/python.png"
   summary: "- 獨立遊戲製作 \n- 股市資料爬蟲分析  \n- 機器學習於遊戲, ADAS 經驗  \n- 影像處理於醫學, ADAS 經驗"
   url: ""
 
 - name: 3rd-Party Tools
-  icon: ""
+  icon: "/images/sections/skills/tools.png"
   summary: "- NATS, Kafka, RabbitMQ, NSQ  \n- Consul, Prometheus  \n- ELK, Graylog  \n- Docker, Jenkins, Ansible"
   url: ""
 
 - name: Others
-  icon: ""
+  icon: "/images/sections/skills/others.svg"
   summary: "- 分散式架構規劃經驗  \n- Client & Server data flow 規劃經驗  \n- 熟悉 DesignPattern, SOLID 原則  \n- 熟悉 ACID, CAP 理論"
 
 - name: Node.js
-  icon: ""
+  icon: "/images/sections/skills/nodejs.png"
   summary: "- 分散式遊戲伺服器 \n- 個人網站架設"
   url: ""
 
